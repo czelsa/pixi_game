@@ -1,0 +1,18 @@
+{
+  "name": "pixi-food",
+  "version": "1.0.0",
+  "description": "Example game using Pixi.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "tsc && parcel index.html"
+  },
+  "dependencies": {
+    "pixi.js": "^6.5.9",
+    "yaml": "^2.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "punycode": "^1.4.1",
+    "querystring-es3": "^0.2.1"
+  }
+}

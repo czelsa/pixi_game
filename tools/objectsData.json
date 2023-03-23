@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Cookie",
+    "x": 0,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Brownie",
+    "x": 16,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Stein",
+    "x": 32,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Moonshine",
+    "x": 48,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Whiskey",
+    "x": 64,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Tart",
+    "x": 80,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Sushi",
+    "x": 96,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Sashimi",
+    "x": 112,
+    "y": 112,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Saki",
+    "x": 0,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Boar",
+    "x": 16,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Marmalade",
+    "x": 32,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Jam",
+    "x": 48,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Apple",
+    "x": 64,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "AppleWorm",
+    "x": 80,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Turnip",
+    "x": 96,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Potato",
+    "x": 112,
+    "y": 96,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Eggs",
+    "x": 0,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Honeycomb",
+    "x": 16,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Pineapple",
+    "x": 32,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Bacon",
+    "x": 48,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Beer",
+    "x": 64,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Steak",
+    "x": 80,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Wine",
+    "x": 96,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Fish",
+    "x": 112,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Cheese",
+    "x": 0,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Chicken",
+    "x": 16,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Bread",
+    "x": 32,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Eggplant",
+    "x": 48,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PepperRed",
+    "x": 64,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PepperGreen",
+    "x": 80,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Grubs",
+    "x": 96,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Grub",
+    "x": 112,
+    "y": 64,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Tomato",
+    "x": 0,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Strawberry",
+    "x": 16,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Peach",
+    "x": 32,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Lemon",
+    "x": 48,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PiePumpkin",
+    "x": 64,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PieLemon",
+    "x": 80,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PieApple",
+    "x": 96,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Pickle",
+    "x": 112,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Pretzel",
+    "x": 0,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Pepperoni",
+    "x": 16,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "FishFillet",
+    "x": 32,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Honey",
+    "x": 48,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Jerky",
+    "x": 64,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PotatoRed",
+    "x": 80,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "MelonHoneydew",
+    "x": 96,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "MelonCantaloupe",
+    "x": 112,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "MelonWater",
+    "x": 0,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Waffles",
+    "x": 16,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "ChickenLeg",
+    "x": 32,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Cherry",
+    "x": 48,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Ribs",
+    "x": 64,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Sardines",
+    "x": 80,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "DragonFruit",
+    "x": 96,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Sausages",
+    "x": 112,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Avocado",
+    "x": 0,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "FishSteak",
+    "x": 16,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Bug",
+    "x": 32,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Olive",
+    "x": 48,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "PickledEggs",
+    "x": 64,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Roll",
+    "x": 80,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Onion",
+    "x": 96,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "Shrimp",
+    "x": 112,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  }
+]
